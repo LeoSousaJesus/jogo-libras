@@ -1,0 +1,25 @@
+# Dependências para Candango: Neural Ascension - Integração MediaPipe
+
+# MediaPipe para detecção de gestos e poses
+mediapipe>=0.10.0
+
+# OpenCV para processamento de vídeo e câmera
+opencv-python>=4.8.0
+
+# NumPy para operações matemáticas
+numpy>=1.24.0
+
+# Pygame para desenvolvimento do jogo
+pygame>=2.5.0
+
+# Pillow para processamento de imagens
+Pillow>=10.0.0
+
+# Matplotlib para visualizações (opcional)
+matplotlib>=3.7.0
+
+# Dependências adicionais para desenvolvimento
+# pytest>=7.4.0  # Para testes
+# black>=23.0.0  # Para formatação de código
+# flake8>=6.0.0  # Para linting
+
